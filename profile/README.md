@@ -1,7 +1,9 @@
 # Conversa
 Simple and easy-to-use open-source manager for Rasa chatbots. Compatible with `Rasa 3.x` and `2.x`.
 
-<img style="width: 60%" title="Conversa" alt="Alt text" src="./screenshot.png">
+<div align="center">
+  <img style="width: 60%" title="Conversa" alt="Conversa" src="https://raw.githubusercontent.com/conversa-rasa/.github/master/profile/screenshot.png">
+</div>
 
 Features:
 * 🤖 **Share your chatbot:** Create shareable links to test the assistant.
